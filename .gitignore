@@ -1,0 +1,4 @@
+var One="hELlo THERE,hOW ARE yOu doINg".toLowerCase();
+var Two=One.slice(1);
+var Three=One[0].toUpperCase();
+Three+Two;
